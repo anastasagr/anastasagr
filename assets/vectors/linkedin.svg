@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="28"
+   height="28"
+   viewBox="0 0 7.4083332 7.4083332"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
+       xlink:href="#linearGradient32"
+       id="linearGradient19"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0370369)"
+       x1="1.7859378"
+       y1="6.6652098"
+       x2="5.3578129"
+       y2="0.47854009" /><linearGradient
+       id="linearGradient32"><stop
+         style="stop-color:#00c79d;stop-opacity:1;"
+         offset="0"
+         id="stop31" /><stop
+         style="stop-color:#005eff;stop-opacity:1;"
+         offset="1"
+         id="stop32" /></linearGradient></defs><g
+     id="layer1"><rect
+       style="fill:url(#linearGradient19);fill-opacity:0.950108;stroke:none;stroke-width:0.439775;stroke-opacity:1"
+       id="rect6-8"
+       width="7.4083333"
+       height="7.4083333"
+       x="-5.0772094e-08"
+       y="-5.0772094e-08"
+       rx="0.99358821"
+       ry="0.97970581" /><path
+       fill="currentColor"
+       fill-rule="evenodd"
+       d="m 3.0239233,2.9022147 h 0.982662 V 3.3916938 C 4.1481373,3.1101772 4.5111463,2.8572355 5.0564523,2.8572355 6.1018213,2.8572355 6.35,3.417623 6.35,4.4457938 V 6.35 H 5.2916673 V 4.6799501 c 0,-0.5855229 -0.141553,-0.9157229 -0.5019151,-0.9157229 -0.499798,0 -0.7074959,0.3558645 -0.7074959,0.9154583 V 6.35 H 3.0239233 Z M 1.2091462,6.3050209 H 2.2674793 V 2.8572355 H 1.2091462 Z m 1.2099391,-4.572 A 0.66939582,0.66939582 0 0 1 2.2198543,2.2098001 0.67997915,0.67997915 0 0 1 1.7383123,2.4077084 0.68791665,0.68791665 0 0 1 1.2573002,2.2100647 0.67468749,0.67468749 0 0 1 1.0583332,1.7330209 c 0,-0.1791229 0.07144,-0.3505729 0.199232,-0.4770437 A 0.68262499,0.68262499 0 0 1 1.7385773,1.0583335 c 0.180446,0 0.353483,0.071173 0.481277,0.1976437 0.127794,0.1264708 0.199231,0.2979208 0.199231,0.4770437"
+       clip-rule="evenodd"
+       id="path1"
+       style="fill:#f9f9f9;stroke-width:0.264583" /></g></svg>
